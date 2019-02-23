@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyApplication</string>
     <string name="my_string">PRESS ME</string>
+    <string name="str_2">This is my toast</string>
 </resources>
